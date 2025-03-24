@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Google Cloud Fundamentals: Core Infrastructure**  
 - 👨‍💻 Check out my projects: **[Portfolio](https://shafiullah46807-16.github.io/Portfolio/)**  
 - 💬 Ask me about **React, Generative AI**  
-- 📫 Reach me at: **praveenpkmv@gmail.com**  
+- 📫 Reach me at: **shafiullah458786@gmail.com**  
 - 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1JlXIO4B7TztdzkGla9YvofcrxIfgIsWo/view?usp=sharing)**  
 - ⚡ Fun fact: **I think I am attractive 😎**  
 
