@@ -11,7 +11,7 @@
 
 
 - 🌱 I’m currently learning **Google Cloud Fundamentals: Core Infrastructure**  
-- 👨‍💻 Check out my projects: **[Portfolio](https://shafiullah46807-16.github.io/Portfolio/)**  
+- 👨‍💻 Check out my projects: **[Portfolio](https://shafiullah46807.github.io/Portfolio/)**  
 - 💬 Ask me about **React, Generative AI**  
 - 📫 Reach me at: **shafiullah458786@gmail.com**  
 - 📄 View my resume: **[Resume Link]([https://drive.google.com/file/d/1JlXIO4B7TztdzkGla9YvofcrxIfgIsWo/view?usp=sharing](https://drive.google.com/file/d/1AwK9iIkUhIPtB4uEwVWYPN-ZPaH1Z5dG/view?usp=drive_link))**  
@@ -21,13 +21,13 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/shafiullah-a" target="blank">
+  <a href="[https://linkedin.com/in/shafiullah-a](https://www.linkedin.com/in/shafi-ullah-5989a6298/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiullah" height="30" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/shafiullah_21" target="blank">
+  <a href="https://www.hackerrank.com/profile/shafiullaha_21m1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shafiullah" height="30" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/shafiullah" target="blank">
+  <a href="https://leetcode.com/u/user3939sd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafiullah" height="30" width="40"/>
   </a>
 </p>
@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,html,css,bootstrap,python,django,java,spring,mysql,mongodb,postgres,git,github,aws,gcp,azure,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,html,css,bootstrap,python,django,java,spring,mysql,mongodb,git,github figma&theme=light" />
 </p>
 
 ---
