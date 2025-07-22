@@ -17,7 +17,7 @@
 - 🏆 I was awarded First Prize for my paper on "Metavers" at Perumal Manimekalai College of Engineering and Second Prize for "Web Crawler" at Coimbatore Institute of Technology.
 - 💬 Ask me about **Web Development**, **Database Management Systems (DBMS)**, **React**, or **Python**.
 - 📫 Reach me at: **shafiullah458786@gmail.com**.
-- 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1AwK9iIkUhIPtB4uEwVWYPN-ZPaH1Z5dG/view?usp=drive_link)**.
+- 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1Xe4s0yP_D1ObeIozC3TAATjx8uoVLo3U/view?usp=drive_link)**.
 
 ---
 
